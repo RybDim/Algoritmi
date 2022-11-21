@@ -1,0 +1,6 @@
+*.out
+*.txt
+/slides
+/libri
+slides/
+libri/
